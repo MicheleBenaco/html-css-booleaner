@@ -11,15 +11,25 @@
     margin-top: 90px;
 }
 .titolo{
-   font-size: 25px;
+   font-size: 30px;
    margin: 0px;
    padding: 0px;
 }
 .sotto-titolo{
     font-size: 10px;
+    margin: 0px;
+   padding: 0px;
+}
+.autore1{
+    font-size: 12px;
+    margin-top: 0px;
+   padding: 0px;
 }
 #autore{
     color: blue;
+    font-size: 12px;
+    margin: 0px;
+    
 }
 #giallo{
     background-color: yellow;
@@ -36,6 +46,7 @@
     width: 33%;
     height: 20%;
     text-align: left;
+   
 
 
 }
@@ -45,6 +56,7 @@
     display: inline-block;
     width: 33%;
     height: 20%;
+   
 }
 
 .img-footer{
