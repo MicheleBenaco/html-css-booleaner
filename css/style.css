@@ -9,5 +9,42 @@
     width: 10%;
     position: absolute;
     margin-top: 90px;
+}
+.titolo{
+   font-size: 25px;
+   margin: 0px;
+   padding: 0px;
+}
+.sotto-titolo{
+    font-size: 10px;
+}
+#autore{
+    color: blue;
+}
+#giallo{
+    background-color: yellow;
+}
+
+
+.row{
+    display: inline-block;
+    height: 50%;
+    width: 50%;
+}    
+.cont1{
+    display: inline-block;
+    width: 33%;
+    height: 20%;
+    text-align: left;
+
 
 }
+
+.cont2{
+    text-align: center;
+    display: inline-block;
+    width: 33%;
+    height: 20%;
+}
+
+
