@@ -1,10 +1,4 @@
-.logo{
-    width: 20%;
-}
-.img-back-logo{
-    background-image: url(/img/pattern.png);
-    width: 100%;
-    background-color:rgb(30, 124, 175) ;
+.conteiner-inizale{
+    background-image: url(../img/pattern.png);
     
 }
-    
